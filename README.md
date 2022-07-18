@@ -14,3 +14,7 @@ Subsets of the analysis, including some results, are in the notebooks ```ETL_fun
 
 The final data tables ('movies' and 'ratings') contain information on movie production (title, cast, release date, box office revenue, etc.) and
 public user ratings from MovieLens, respectively. 
+
+Confirmation of the tables' cleaned status in a PostgreSQL database is available in the 'resources' file:
+
+![](resources/both_query.png)
